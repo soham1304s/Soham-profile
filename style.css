@@ -52,7 +52,7 @@ body{
 /*mode */
 .dn{
     float: inline-end;
-    padding-top: 10%;
+    padding-top: 15%;
     color: rgb(255, 248, 203);
     z-index: +10;
 }
